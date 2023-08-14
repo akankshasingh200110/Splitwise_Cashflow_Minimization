@@ -1,1 +1,3 @@
-# Splitwise_Cashflow_Minimization-
+# Splitwise_Cashflow_Minimization
+
+Project
